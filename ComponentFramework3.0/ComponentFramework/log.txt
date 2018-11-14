@@ -1,0 +1,2 @@
+INFO: Initializing the window and first scene ( d:\humber\game 203 c++\componentframework3.0\componentframework\gamescenemanager.cpp: 95)
+INFO: 1.13.0 ( d:\humber\game 203 c++\componentframework3.0\componentframework\window.cpp: 66)
